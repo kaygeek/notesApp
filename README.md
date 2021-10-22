@@ -1,2 +1,3 @@
 # notesApp
-react app
+#react note pad app
+#please check project in the master branch
